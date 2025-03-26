@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "A sweet red fruit",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "description": "A yellow fruit rich in potassium",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "description": "A citrus fruit rich in vitamin C",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "Grapes",
+      "description": "A small, juicy fruit that comes in bunches",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Mango",
+      "description": "A tropical fruit known for its sweetness",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "name": "Strawberry",
+      "description": "A red, heart-shaped fruit with seeds on the outside",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
