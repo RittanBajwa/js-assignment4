@@ -4,41 +4,41 @@
         "name": "Smartphone X",
         "brand": "TechCorp",
         "price": 799.99,
-        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/smartphone.jpg"
+        "image": "https://picsum.photos/id/237/200/300"
     },
     {
         "id": 2,
         "name": "Wireless Earbuds",
         "brand": "SoundWave",
         "price": 149.50,
-        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/earbuds.jpg"
+        "image": "https://picsum.photos/id/238/200/300"
     },
     {
         "id": 3,
         "name": "Smart Watch",
         "brand": "FitTech",
         "price": 249.99,
-        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/smartwatch.jpg"
+        "image": "https://picsum.photos/id/239/200/300"
     },
     {
         "id": 4,
-        "name": "Noise Cancelling Headphones",
-        "brand": "AudioPro",
-        "price": 299.00,
-        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/headphones.jpg"
+        "name": "Laptop Pro",
+        "brand": "TechGear",
+        "price": 1299.99,
+        "image": "https://picsum.photos/id/240/200/300"
     },
     {
         "id": 5,
-        "name": "Portable Bluetooth Speaker",
+        "name": "Bluetooth Speaker",
         "brand": "SoundBlast",
-        "price": 89.99,
-        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/speaker.jpg"
+        "price": 99.99,
+        "image": "https://picsum.photos/id/241/200/300"
     },
     {
         "id": 6,
-        "name": "Tablet Pro",
+        "name": "Tablet Elite",
         "brand": "TabTech",
         "price": 599.50,
-        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/tablet.jpg"
+        "image": "https://picsum.photos/id/242/200/300"
     }
 ]
