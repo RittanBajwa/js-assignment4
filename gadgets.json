@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone X",
+        "brand": "TechCorp",
+        "price": 799.99,
+        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/smartphone.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Wireless Earbuds",
+        "brand": "SoundWave",
+        "price": 149.50,
+        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/earbuds.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Smart Watch",
+        "brand": "FitTech",
+        "price": 249.99,
+        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/smartwatch.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Noise Cancelling Headphones",
+        "brand": "AudioPro",
+        "price": 299.00,
+        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/headphones.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Portable Bluetooth Speaker",
+        "brand": "SoundBlast",
+        "price": 89.99,
+        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/speaker.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Tablet Pro",
+        "brand": "TabTech",
+        "price": 599.50,
+        "image": "https://raw.githubusercontent.com/yourusername/js-assignment4/main/images/tablet.jpg"
+    }
+]
